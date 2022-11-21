@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "type": "아파트",
+    "picture": "images/apartment.jpg",
+    "area": "75A/42",
+    "price": 0.00425
+  },
+  {
+    "id": 1,
+    "type": "주택",
+    "picture": "images/house.jpg",
+    "area": "115/76",
+    "price": 0.01244
+  },
+  {
+    "id": 2,
+    "type": "랜드마크",
+    "picture": "images/piramid.jpg",
+    "area": "-",
+    "price": 0.02668
+  },
+  {
+    "id": 3,
+    "type": "주택",
+    "picture": "images/house.jpg",
+    "area": "693/82",
+    "price": 1.29
+  },
+  {
+    "id": 4,
+    "type": "랜드마크",
+    "picture": "images/gyeongbokgung.jpg",
+    "area": "-",
+    "price": 0.59229
+  },
+  {
+    "id": 5,
+    "type": "아파트",
+    "picture": "images/apartment.jpg",
+    "area": "113A/84",
+    "price": 99.9999
+  },
+  {
+    "id": 6,
+    "type": "아파트",
+    "picture": "images/apartment.jpg",
+    "area": "145/114",
+    "price": 0.0024
+  },
+  {
+    "id": 7,
+    "type": "아파트",
+    "picture": "images/samsungtower.jpg",
+    "area": "233B/184",
+    "price": 0.46
+  }
+]
